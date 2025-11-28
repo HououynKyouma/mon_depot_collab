@@ -1,0 +1,38 @@
+em mark
+{ 
+color: green; 
+}
+body 
+{
+background-image: url("violet2.png");
+background-size: cover;
+}
+
+.titree
+{
+color: white;
+}
+.titre2
+{
+color: yellow;
+}
+.titre3
+{
+color: orange;
+}
+.titre4
+{
+color: rgb(119,181,284);
+}
+.titre5
+{
+color: rgb(211,211,211);
+}
+.titre6
+{
+color: rgb(255,182,193);
+}
+.titrefirst
+{
+color: rgb(144,218,144);
+}
